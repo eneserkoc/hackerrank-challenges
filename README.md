@@ -1,6 +1,6 @@
 # hackerrank-challenges
 
-## Contents
+## Table of Contents
     - [Sock Merchant](#sock-merchant)
 
 ### Sock Merchant
